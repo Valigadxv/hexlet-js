@@ -1,1 +1,2 @@
 # hexlet-js
+Hello, Hexlet!
