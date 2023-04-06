@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@hexlet/nodejs-package": "github:Valigadxv/nodejs-package",
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.7"
   }
 }
